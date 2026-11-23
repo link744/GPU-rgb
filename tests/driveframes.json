@@ -1,0 +1,19 @@
+{
+ "source": "ref/gpu_rgb.py frame_colors(state_weights(level), phase)",
+ "levels": [
+  0.0,
+  0.5,
+  1.0,
+  1.5,
+  2.0,
+  2.5,
+  3.0
+ ],
+ "layout": "level-major: 7 levels x 120 phases x 720B",
+ "level_names": [
+  "gpu-spotlight-idle",
+  "gpu-spotlight-somewhat-active",
+  "sweep",
+  "red_white"
+ ]
+}

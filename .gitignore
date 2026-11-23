@@ -1,0 +1,10 @@
+# build artifact (build.bat rebuilds from src/)
+GpuRgb.exe
+
+# runtime state / logs
+status.json
+logs/
+*.tmp
+
+# local pre-rebase snapshot (duplicates of ref/ + tests/ from 2026-11-22)
+pre-rebase-20261122/

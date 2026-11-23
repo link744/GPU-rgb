@@ -1,0 +1,10 @@
+{
+  "mode": "screen",
+  "screen_smoothing": false,
+  "levels": {
+    "0": "gpu-spotlight-idle",
+    "1": "gpu-spotlight-somewhat-active",
+    "2": "sweep",
+    "3": "red_white"
+  }
+}
